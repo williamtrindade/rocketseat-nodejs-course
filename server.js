@@ -7,6 +7,7 @@ const app = express();
 // Starting mongo db
 mongoose.connect('mongodb://localhost:27017/nodeapi', { useNewUrlParser: true })
 
+require('./src/models/Product';)
 // Routes
 app.get('/', (req, res) => {
     res.send('Hello 1');
