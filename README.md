@@ -1,7 +1,7 @@
 ## Nodejs / Typescript API.
 ___
 ### Run project:
-> **yarn dev**
+> **$ yarn dev**
 ___
 
 ### Test in postman:
@@ -9,7 +9,7 @@ ___
 ___
 
 ### Connect to mongodb:
-> in server.ts
+in server.ts
 ```typescript
 mongoose.connect({your mongo server url}, { useNewUrlParser: true, useUnifiedTopology: true })
 ```
