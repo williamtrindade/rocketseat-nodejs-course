@@ -1,7 +1,8 @@
 # rocketseat-nodejs-course
 Rocketseat NodeJS course codes
 
-## Nodejs wity Typescript API.
+## Nodejs / Typescript API.
 
-## Run:
-> yarn serve
+### Run project:
+> *** yarn dev ***  
+### Test in postman:
