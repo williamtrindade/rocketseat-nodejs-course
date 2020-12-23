@@ -1,4 +1,4 @@
-## Node.JS API
+## Node.js API
 ___
 ### Run project:
 > **$ yarn dev**
